@@ -1,0 +1,2 @@
+This is the example file of git study.
+This file's content is: We are awesome team.
